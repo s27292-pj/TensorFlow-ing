@@ -1,0 +1,14 @@
+### Python ###
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs
+*.log
